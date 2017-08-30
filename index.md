@@ -4,7 +4,7 @@ title: "Communications Media"
 fulltitle: "Communications Media Department"
 read_more: '#!'
 excerpt: Here's where a nice short description of this page will go!
-col: games
+col: communications-media
 displayfeatured: true
 ---
 
