@@ -1,4 +1,4 @@
-# Fitchburg State Game Design and Communications Media showcase
+# Fitchburg State Communications Media showcase
 
 Here's a quick tutorial on how to modify and maintain this site. 
 
@@ -6,17 +6,17 @@ Here's a quick tutorial on how to modify and maintain this site.
 
 ### via Github.com
 
-Simply go to [the repo on Github](https://github.com/nathanwentworth/fitchburg) and edit the files in the `_games`, `_events`, or `_drafts` folders. When you save and commit these files the site will automatically rebuild.
+Simply go to [the repo on Github](https://github.com/fitchburgstate/commedia) and edit the files in the `_communications-media`, `_events`, or `_drafts` folders. When you save and commit these files the site will automatically rebuild.
 
-(**Note:** this requires having editing privileges on the repo. Ideally this will be uploaded to a school-owned account.)
+(**Note:** this requires having editing privileges on the repo.)
 
 ### Locally
 
-If you want to edit this project locally, then clone the repo into whatever folder you want on your computer `git clone https://github.com/nathanwentworth/fitchburg.git`. Jekyll also needs to be installed `gem install jekyll` for this to build. Once you make your local changes, run `jekyll build` and push changes to Github. 
+If you want to edit this project locally, then clone the repo into whatever folder you want on your computer `git clone https://github.com/fitchburgstate/commedia.git`. Jekyll also needs to be installed `gem install jekyll` for this to build. Once you make your local changes, run `jekyll build` and push changes to Github. 
 
 ## Making a New Site Entry
 
-Go into the folder for the type of post you want to make, whether it be `_games`, `_events`, etc. Create a new file, and name it in the format of `YYYY-MM-DD-url-goes-here.md`. It *must* be in this format. Year, month, day, separated by dashes, with leading 0s, and then the url after the date and a .md extension. The date will be what sorts the post, in chronological order, so make it the release date of the game. 
+Go into the folder for the type of post you want to make, whether it be `_communications-media`, `_events`, etc. Create a new file, and name it in the format of `YYYY-MM-DD-url-goes-here.md`. It *must* be in this format. Year, month, day, separated by dashes, with leading 0s, and then the url after the date and a .md extension. The date will be what sorts the post, in chronological order, so make it the release date of the game. 
 
 Once this file is made, insert two sets of `---` at the top of the post. In between the two dash sets, insert the variables that you need. 
 
