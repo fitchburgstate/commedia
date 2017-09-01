@@ -4,7 +4,8 @@ title: "Film / Video"
 fulltitle: "Fitchburg State University: Film / Video"
 read_more: '#!'
 main_image: film.jpg
-header_video: '<iframe allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.com/embed/iframe/cg0om2onal" width="480" height="321"></iframe>'
+images: [film.jpg]
+# header_video: '<iframe allowtransparency="true" frameborder="0" scrolling="no" class="wistia_embed" name="wistia_embed" src="https://fast.wistia.com/embed/iframe/cg0om2onal" width="480" height="321"></iframe>'
 excerpt: Film and Video Concentration
 col: film-video
 ---
