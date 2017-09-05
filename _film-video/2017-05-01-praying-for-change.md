@@ -11,8 +11,6 @@ main_image: praying-for-change.png
 # header_video, optional
 # this overrides main_image on project pages, will show a video in the header
 
-
-
 featured: true
 
 ---
