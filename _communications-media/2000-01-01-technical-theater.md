@@ -3,7 +3,7 @@ layout: gallery
 title: "Technical Theater"
 fulltitle: "Fitchburg State University: Technical Theater"
 read_more: '#!'
-main_image: muchado11.jpg
+main_image: technical-theater.jpg
 excerpt: Technical Theater Concentration
 col: technical-theater
 ---
