@@ -4,12 +4,9 @@ title: "Photography"
 fulltitle: "Fitchburg State University: Photography"
 read_more: '#!'
 main_image: 8555643573_cd487571af_h.jpg
-excerpt: Here's where a nice short description of this page will go!
+excerpt: Photography Concentration
 col: photography
 ---
-here's a description of the game design major! this goes in the main body area in the top left! Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum. 
+Students in this concentration have access to one of the finest photographic facilities in New England. Our students work with professional equipment as early as their first year. Students learn through hands-on experience with equipment ranging from the traditional darkroom to the latest digital technologies, including professional digital cameras, imaging software and archival inkjet printers.
+
+[Photography Concentration Website](http://www.fitchburgstate.edu/academics/undergraduate/undergraduate-day-programs/communications-media/communications-media-photography-concentration/)
