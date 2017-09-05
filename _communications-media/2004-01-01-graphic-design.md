@@ -3,7 +3,7 @@ layout: gallery
 title: "Graphic Design"
 fulltitle: "Fitchburg State University: Graphic Design"
 read_more: '#!'
-main_image: LeClair-Abigail-Brewery_Passport_Web.jpg
+main_image: graphic-design.jpg
 excerpt: Graphic Design Concentration
 col: graphic-design
 ---
