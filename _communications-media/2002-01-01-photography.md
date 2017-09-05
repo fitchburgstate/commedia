@@ -3,7 +3,7 @@ layout: gallery
 title: "Photography"
 fulltitle: "Fitchburg State University: Photography"
 read_more: '#!'
-main_image: 8555643573_cd487571af_h.jpg
+main_image: photography.jpg
 excerpt: Photography Concentration
 col: photography
 ---
