@@ -1,6 +1,6 @@
 ---
-layout: half-width
-#layout: gallery
+#layout: half-width
+layout: gallery
 title: "Film / Video"
 fulltitle: "Fitchburg State University: Film / Video"
 read_more: '#!'
