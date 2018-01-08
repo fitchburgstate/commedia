@@ -1,5 +1,5 @@
 ---
-layout: gallery
+#layout: gallery
 title: "Photography"
 fulltitle: "Fitchburg State University: Photography"
 read_more: '#!'
