@@ -12,6 +12,19 @@ layout: default
     <div class="event-content">
       {{ content }}
     </div>
+    {% if page.images or page.videos %}
+    <div class="sub-project images">
+    {% for image in page.images %}
+      <img src="{{ site.github.url }}/assets/img/{{ page.collection }}/{{ image }}">
+    {% endfor %}
+    {% for video in page.videos %}
+      <div class="video">
+        {{ video }}
+      </div>
+    {% endfor %}
+    </div>
+    {% endif %}
+
   </div>
 
 
