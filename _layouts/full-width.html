@@ -13,7 +13,7 @@ layout: default
       {{ content }}
     </div>
     {% if page.images or page.videos %}
-    <div class="sub-project images">
+    <div class="images">
     {% for image in page.images %}
       <img src="{{ site.github.url }}/assets/img/{{ page.collection }}/{{ image }}">
     {% endfor %}
