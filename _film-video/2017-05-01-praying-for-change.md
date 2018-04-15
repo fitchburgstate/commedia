@@ -7,7 +7,7 @@ main_image: praying-for-change.png
 # main_image, *required*
 # this is shown on the main page, and project pages if header_video is not set
 
-header_video: '<iframe width="560" height="315" src="https://www.youtube.com/embed/LmVUVNt2IUs?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
+# header_video: '<iframe width="560" height="315" src="https://www.youtube.com/embed/LmVUVNt2IUs?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>'
 # header_video, optional
 # this overrides main_image on project pages, will show a video in the header
 
