@@ -1,13 +1,13 @@
 ---
-title: Praying for Change
+title: Sleeping Together
 # title, *required*
 # this is shown on the main page and project pages
 
-main_image: praying-for-change.png
+main_image: sleeping-together.png
 # main_image, *required*
 # this is shown on the main page, and project pages if header_video is not set
 
-header_video: '<iframe src="https://player.vimeo.com/video/196478247?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
+header_video: '<iframe src="https://player.vimeo.com/video/196478247?title=0&byline=0&portrait=0" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>'
 # header_video, optional
 # this overrides main_image on project pages, will show a video in the header
 
