@@ -229,6 +229,9 @@ footer a:hover, footer a:active { color: #D4D4D4; border-bottom: none; }
 .event-content {
   margin-top: $double-space;
 }
+.content-lower {
+  margin-top: $double-space + 20;
+}
 
 .title, h1, h2, h3, h4, h5, nav {
   color: $primary-color;
@@ -297,6 +300,9 @@ footer a:hover, footer a:active { color: #D4D4D4; border-bottom: none; }
     &:hover::after {
       width: calc(100% - #{$spacing-unit});
     }
+  }
+  &.title-lower {
+    top: 0;
   }
 }
 
