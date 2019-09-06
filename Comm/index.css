@@ -311,7 +311,9 @@ footer a:hover,footer a:active{
 	width:100%;
 }
 
-
+.img-link{
+	max-width:100%;
+}
 
 .card{
 	background:#F2F1EF;
@@ -333,10 +335,11 @@ footer a:hover,footer a:active{
 	font-family:'Montserrat', sans-serif;
 }
 
-h1{
+h1, h2, h3{
 	padding-top:28px;
 	margin-left:42px;
 }
+
 
 .title{
 	position:relative;
@@ -449,7 +452,7 @@ h1{
 }
 
 .project-item .image>img{
-	width:100%;
+	max-width:100%;
 }
 
 .desc{
@@ -542,8 +545,14 @@ h1{
 	max-width:720px;
 }
 
+img{
+	max-width:1200px;
+	padding-left:relative;
+}
+
 .images{
 	margin-left:auto;
+	
 }
 .images img{
 	margin-bottom:14px;
