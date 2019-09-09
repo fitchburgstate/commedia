@@ -315,6 +315,11 @@ footer a:hover,footer a:active{
 	max-width:100%;
 }
 
+.pic-name{
+	float:left;
+	display:block;
+}
+
 .card{
 	background:#F2F1EF;
 	padding:28px;
@@ -548,11 +553,13 @@ h1, h2, h3{
 img{
 	max-width:100%;
 	padding-left:relative;
+	max-height:auto;
 }
 
 .images{
 	margin-left:auto;
-	
+	max-width:100%;
+	max-height:auto;
 }
 .images img{
 	margin-bottom:14px;
