@@ -95,7 +95,13 @@ a:hover a:active{
 	border-bottom:1px solid #0A4A38;
 }
 
-p {
+hr{
+	margin:auto;
+	color:solid black 1px;
+}
+
+p{
+	padding-top:15px;
 	padding:28px;
 	line-height:1.425;
 	float:left;
@@ -551,9 +557,9 @@ h1, h2, h3{
 }
 
 img{
-	max-width:100%;
+	width:100%;
+	height:auto;
 	padding-left:relative;
-	max-height:auto;
 }
 
 .images{
@@ -562,7 +568,7 @@ img{
 	max-height:auto;
 }
 .images img{
-	margin-bottom:14px;
+	margin-bottom:5px;
 	cursor:-webkit-zoom-in;
 	cursor:zoom-in;
 }
