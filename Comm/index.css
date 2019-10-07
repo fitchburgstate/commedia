@@ -31,7 +31,10 @@ b,strong{
 }
 
 img{
-	border:0
+	border:0;
+	width:100%;
+	height:auto;
+	padding-left:relative;
 }
 
 svg:not(:root){
@@ -210,14 +213,15 @@ hr{
 
 .logo{
 	display:inline-block;
-	margin-right:auto;
-	max-width:50%;
+	
+	width:50%;
 	border-bottom:none;
 }
 
 .logo img{
-	max-height:80px;
-	margin:auto;
+	width:50%;
+	max-height:auto;
+	
 }
 
 .ie .logo{
@@ -324,6 +328,8 @@ footer a:hover,footer a:active{
 .pic-name{
 	float:left;
 	display:block;
+	margin-bottom:0px;
+	padding-bottom:0px;
 }
 
 .card{
@@ -421,8 +427,9 @@ h1, h2, h3{
 
 .project-item{
 	position:relative;
+	
 	background:#ffffff;
-	margin:0 auto 28px;
+	margin:0 5px 28px;
 	width:calc(50% - 14px);
 }
 
@@ -437,6 +444,13 @@ h1, h2, h3{
 
 .ie .project-item.with-btn{
 	margin-bottom:28px;
+}
+
+.catalogue{
+	max-width:100%;
+	margin:auto;
+	display:inline-block;
+	float:left;
 }
 
 .with-btn .btn{
@@ -554,12 +568,6 @@ h1, h2, h3{
 
 .sub-project.desc.full-width p,.sub-project.desc.full-width ul{
 	max-width:720px;
-}
-
-img{
-	width:100%;
-	height:auto;
-	padding-left:relative;
 }
 
 .images{

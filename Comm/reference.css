@@ -31,7 +31,9 @@ b,strong{
 }
 
 img{
-	border:0
+	border:0;
+	display:block;
+	max-width:100%;
 }
 
 svg:not(:root){
@@ -72,11 +74,6 @@ html,body{
 *{
 	-webkit-box-sizing:border-box;
 	box-sizing:border-box
-}
-
-img{
-	display:block;
-	max-width:100%;
 }
 
 a{
@@ -237,14 +234,15 @@ hr{
 
 .logo{
 	display:inline-block;
-	margin-right:auto;
+	
 	max-width:50%;
 	border-bottom:none;
 }
 
 .logo img{
-	max-height:80px;
-	margin:auto;
+	max-height:auto;
+	width:50%;
+
 }
 
 .ie .logo{
