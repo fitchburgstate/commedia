@@ -32,8 +32,8 @@ b,strong{
 
 img{
 	border:0;
-	width:100%;
-	height:auto;
+	max-width:100%;
+	max-height:auto;
 	padding-left:relative;
 }
 
