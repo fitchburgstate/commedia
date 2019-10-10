@@ -33,7 +33,8 @@ b,strong{
 img{
 	border:0;
 	max-width:100%;
-	max-height:auto;
+	width:1144px;
+	max-height:100%;
 	padding-left:relative;
 }
 
@@ -577,8 +578,7 @@ h1, h2, h3{
 }
 .images img{
 	margin-bottom:5px;
-	cursor:-webkit-zoom-in;
-	cursor:zoom-in;
+	
 }
 
 .images img:last-child{
