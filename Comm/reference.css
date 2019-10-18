@@ -150,6 +150,13 @@ blockquote{
 	height:100%;
 }
 
+.catalogue{
+	max-width:100%;
+	margin:auto;
+	display:inline-block;
+	float:left;
+}
+
 hr{
 	display:block;
 	height:1px;

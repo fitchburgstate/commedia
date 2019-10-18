@@ -4,10 +4,7 @@ html{
 	-webkit-text-size-adjust:100%;
 }
 
-body{
-	margin:0;
-	padding:0;
-}
+
 
 article,aside,details,figcaption,figure,footer,header,hgroup,main,menu,nav,section,summary{
 	display:block;
@@ -105,20 +102,12 @@ hr{
 }
 
 p{
-	padding-top:15px;
-	padding:28px;
-	line-height:1.425;
-	float:left;
+	padding-bottom:35px;
 	font-family:'Montserrat', sans-serif;
 }
 
 .comm-desc{
-	-webkit-column-count:2;
-	column-count:2;
-	-webkit-column-gap:56px;
-	column-gap:56px;
-	-webkit-column-rule:dotted 1px #DDDAD4;
-	column-rule:dotted 1px #DDDAD4;
+	margin-left:28px;
 }
 
 ::-moz-selection{
@@ -354,8 +343,7 @@ footer a:hover,footer a:active{
 }
 
 h1, h2, h3{
-	padding-top:28px;
-	margin-left:42px;
+	margin-left:28px;
 }
 
 
@@ -430,8 +418,8 @@ h1, h2, h3{
 	position:relative;
 	
 	background:#ffffff;
-	margin:0 5px 28px;
-	width:calc(50% - 14px);
+	margin:0 30px 0;
+	width:45%
 }
 
 .ie .project-item{
@@ -491,7 +479,7 @@ h1, h2, h3{
 .main-desc .title{
 	overflow:visible;
 	overflow:visible;
-	margin:0;
+
 }
 
 .archive-container{
