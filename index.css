@@ -56,6 +56,7 @@ button{
 
 audio,canvas,iframe,img,svg,video{
 	vertical-align:middle;
+	margin-left:28px;
 }
 
 fieldset{
@@ -103,7 +104,7 @@ hr{
 }
 
 p{
-	padding-bottom:35px;
+	padding-bottom:15px;
 	font-family:'Montserrat', sans-serif;
 }
 
@@ -325,8 +326,8 @@ footer a:hover,footer a:active{
 
 .card{
 	background:#ffffff;
-	padding:28px;
-	margin-bottom:28px;
+	margin-left:28px;
+	padding-left:28px;
 	position:relative;
 }
 

@@ -242,7 +242,7 @@ hr{
 .logo{
 	display:inline-block;
 	
-	max-width:50%;
+	width:auto%;
 	border-bottom:none;
 }
 
