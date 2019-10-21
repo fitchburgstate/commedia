@@ -29,11 +29,9 @@ b,strong{
 }
 
 img{
-	border:0;
 	max-width:100%;
 	width:1144px;
 	max-height:100%;
-	padding-left:relative;
 }
 
 svg:not(:root){
@@ -56,7 +54,7 @@ button{
 
 audio,canvas,iframe,img,svg,video{
 	vertical-align:middle;
-	margin-left:28px;
+	
 }
 
 fieldset{
@@ -205,7 +203,7 @@ hr{
 
 .logo{
 	display:inline-block;
-	
+	margin-left:15px;
 	width:auto;
 	border-bottom:none;
 }
@@ -318,7 +316,7 @@ footer a:hover,footer a:active{
 }
 
 .pic-name{
-	float:left;
+	
 	display:block;
 	margin-bottom:0px;
 	padding-bottom:0px;
@@ -343,9 +341,6 @@ footer a:hover,footer a:active{
 	color:#0A4A38;
 	font-family:'Montserrat', sans-serif;
 }
-
-
-
 
 .title{
 	position:relative;
@@ -416,7 +411,6 @@ footer a:hover,footer a:active{
 
 .project-item{
 	position:relative;
-	
 	background:#ffffff;
 	margin:0 auto 0;
 	width:45%
@@ -497,7 +491,6 @@ footer a:hover,footer a:active{
 .ie .project{
 	display:block;
 }
-
 
 .images{
 	margin-left:auto;
