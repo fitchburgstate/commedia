@@ -313,10 +313,6 @@ footer a:hover,footer a:active{
 	width:100%;
 }
 
-.img-link{
-	max-width:100%;
-}
-
 .pic-name{
 	
 	display:block;
@@ -452,8 +448,8 @@ footer a:hover,footer a:active{
 }
 
 .imgclass{
-	height:300px;
-	width:550px;
+	height:350px;
+	
 }
 
 .project-item .image{
