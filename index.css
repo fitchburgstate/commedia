@@ -449,6 +449,11 @@ footer a:hover,footer a:active{
 	padding-bottom:2rem;
 }
 
+.imgclass{
+	height:300px;
+	width:550px;
+}
+
 .project-item .image{
 	position:relative;
 	overflow:hidden;
