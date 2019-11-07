@@ -632,6 +632,16 @@ footer a:hover,footer a:active{
 		-ms-flex-direction:column;
 		flex-direction:column;
 	}
+	
+	.imgclass{
+		max-height:auto;
+		max-width:auto;
+	}
+	
+	.img-link{
+		max-height:auto;
+		max-width:auto;
+	}
 }
 
 @media only screen and (min-width: 668px) and (max-width: 960px){
@@ -678,6 +688,16 @@ footer a:hover,footer a:active{
 	}
 	.x3 .title{
 		font-size:1.2em;
+	}
+
+	.imgclass{
+		max-height:auto;
+		max-width:auto;
+	}
+	
+	.img-link{
+		max-height:auto;
+		max-width:auto;
 	}
 }
 
@@ -745,5 +765,15 @@ footer a:hover,footer a:active{
 	.ie .x3 .project-item:first-child{
 		width:100%;
 		margin-left:0 !important;
+	}
+	
+	.imgclass{
+		max-height:auto;
+		max-width:auto;
+	}
+	
+	.img-link{
+		max-height:auto;
+		max-width:auto;
 	}
 }
