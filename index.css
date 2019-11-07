@@ -448,8 +448,11 @@ footer a:hover,footer a:active{
 }
 
 .imgclass{
-	height:350px;
-	
+	max-height:350px;
+}
+
+.img-link{
+	max-width:100%
 }
 
 .project-item .image{
