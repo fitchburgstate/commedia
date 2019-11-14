@@ -205,7 +205,6 @@ hr{
 
 .logo{
 	display:inline-block;
-	margin-left:15px;
 	width:auto;
 	border-bottom:none;
 }
@@ -323,7 +322,6 @@ footer a:hover,footer a:active{
 .card{
 	background:#ffffff;
 	margin-left:28px;
-	padding-left:28px;
 	position:relative;
 }
 
@@ -448,7 +446,7 @@ footer a:hover,footer a:active{
 }
 
 .imgclass{
-	max-height:350px;
+	height:350px;
 }
 
 .img-link{
@@ -467,7 +465,8 @@ footer a:hover,footer a:active{
 .desc{
 	position:relative;
 	width: 100%;
-	padding:10px;
+	padding-top:15px;
+	padding-left:10px;
 	float:center;
 }
 
